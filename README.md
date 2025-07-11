@@ -13,6 +13,8 @@ MESL多地家宽机场，新疆可用机场
 
 有专属新疆套餐，可供新疆地区使用
 
+流媒体解锁极佳，基本上全解锁
+
 ## BitzNet DualNet
 
 如果追求性价比，可以考虑看看[BitzNet系列](https://github.com/nogopex/BitzNet)
